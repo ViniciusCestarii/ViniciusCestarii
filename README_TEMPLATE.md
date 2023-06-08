@@ -6,7 +6,7 @@
 - 😄 18 years old;
 - ⌛  %{myexperience};
 - 📚 IT technician and studying information systems;
-- 🌱 Currently learning Next, TypeScript, Prisma, Yeoman generator;
+- 🌱 Currently learning Next, TypeScript, Prisma;
 - 🔭 I’m currently working as a dev at BrBits Sistemas;
 - <img height = "20em" src="https://em-content.zobj.net/thumbs/120/google/350/flag-brazil_1f1e7-1f1f7.png"/>   From Brazil.
 
