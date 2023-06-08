@@ -19,6 +19,7 @@
   <img align="center" alt="Vinicius-NextJs" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
   <img align="center" alt="Vinicius-Expo" height="60" width="60" src="https://www.svgrepo.com/show/373591/expo.svg"/>
   <img align="center" alt="Vinicius-ReactJs" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img align="center" alt="Vinicius-MUI" height="60" width="60"  src="https://v4.material-ui.com/static/logo.png"/>
   <img align="center" alt="Vinicius-GSAP" height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg"/>
   
   <img align="center" alt="Vinicius-Tailwind" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
@@ -32,7 +33,7 @@
   <img align="center" alt="Vinicius-Git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Vinicius-GitLab" height="60" width="60" src="https://about.gitlab.com/images/press/press-kit-icon.svg">
   <img align="center" alt="Vinicius-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Vinicius-Yeoman" height="60" width="60" src="https://avatars.githubusercontent.com/u/1714870?s=280&v=4"/>
+  <img align="center" alt="Vinicius-Yeoman" height="60" width="60" src="https://avatars.githubusercontent.com/u/1714870?s=280&v=4"/>
   
   <img align="center" alt="Vinicius-Prisma" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_prisma_icon_130444.png"/>
   <img align="center" alt="Vinicius-MySql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
