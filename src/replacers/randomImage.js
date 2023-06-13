@@ -1,5 +1,5 @@
 module.exports = async function () {
-  imageTypes=['code', 'hacker', 'internet', 'computer', 'web', 'java', 'technology', 'javascript']
+  imageTypes=['code', 'hacker', 'mobile', 'computer', 'web', 'java', 'technology', 'javascript']
 
   const randomImageType = Math.floor(Math.random() *  imageTypes.length)
 
