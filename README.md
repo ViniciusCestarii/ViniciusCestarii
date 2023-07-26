@@ -38,7 +38,7 @@
   <img align="center" alt="Vinicius-Prisma" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_prisma_icon_130444.png"/>
   <img align="center" alt="Vinicius-MySql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img align="center" alt="Vinicius-PostGreSql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> 
-  <img align="center" alt="Vinicius-Figma" height="60" width="60" src="https://w7.pngwing.com/pngs/911/515/png-transparent-figma-logo-brand-logos-brands-in-colors-icon-thumbnail.png"/> 
+  <img align="center" alt="Vinicius-Figma" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"/> 
   <img align="center" alt="Vinicius-Unity" height="60" width="60"  src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png"/>
   <br>
 </div>
@@ -84,7 +84,7 @@
 <div align="center">
 <p>Random follower of the day: </p>
 
-<a href="https://github.com/sigespweb22" alt="Alan L. Rezende"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
+<a href="https://github.com/Jamile15" alt="Mile Vieira"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
 
 <p>My last follower: </p>
 
