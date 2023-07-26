@@ -44,7 +44,7 @@
 
  <hr>
 <div align="center">
-  <img align="center" src="https://simple-github-stats.vercel.app/?user=ViniciusCestarii&date=09/03/2020" /> 
+  <img align="center" src="https://simple-github-stats.vercel.app/?user=ViniciusCestarii&date=03/09/2020" /> 
 </div>
 <br>
 <div align="center"> 
