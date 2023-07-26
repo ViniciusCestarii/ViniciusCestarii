@@ -4,7 +4,7 @@
 <hr>
 
 - 😄 18 years old;
-- ⌛  3 Years, 3 Months and 16 Days since I started programming;
+- ⌛  3 Years, 3 Months and 17 Days since I started programming;
 - 📚 IT technician and studying information systems;
 - 🌱 Currently learning Next, TypeScript, Prisma;
 - 🔭 I’m currently working as a dev at BrBits Sistemas;
@@ -44,12 +44,7 @@
 
  <hr>
 <div align="center">
-  <a href="https://github.com/ViniciusCestarii">
-    <img  align="center" height = "170em" src="https://github-readme-stats.vercel.app/api?username=ViniciusCestarii&show_icons=true&theme=chartreuse-dark" />
-  </a>
-  <a href="https://github.com/ViniciusCestarii">
-    <img align="center" height = "170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCestarii&layout=compact&theme=chartreuse-dark" />
-  </a>
+  <img align="center" src="https://simple-github-stats.vercel.app/?user=ViniciusCestarii&date=09/03/2020" /> 
 </div>
 <br>
 <div align="center"> 
@@ -83,7 +78,7 @@
 <div align="center">
 <p>Random follower of the day: </p>
 
-<a href="https://github.com/leotachini" alt="leotachini"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
+<a href="https://github.com/Jamile15" alt="Mile Vieira"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
 
 <p>My last follower: </p>
 
@@ -94,7 +89,7 @@
 
 *This section is updated via Javascript.*
 <div align="center">
-  <img align="center" alt="Random unsplash image" width="1000" height="500" src="https://source.unsplash.com/random/1000x500/?javascript" />
+  <img align="center" alt="Random unsplash image" width="1000" height="500" src="https://source.unsplash.com/random/1000x500/?technology" />
 </div>
 
 

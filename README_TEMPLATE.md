@@ -44,12 +44,7 @@
 
  <hr>
 <div align="center">
-  <a href="https://github.com/ViniciusCestarii">
-    <img  align="center" height = "170em" src="https://github-readme-stats.vercel.app/api?username=ViniciusCestarii&show_icons=true&theme=chartreuse-dark" />
-  </a>
-  <a href="https://github.com/ViniciusCestarii">
-    <img align="center" height = "170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCestarii&layout=compact&theme=chartreuse-dark" />
-  </a>
+  <img align="center" src="https://simple-github-stats.vercel.app/?user=ViniciusCestarii&date=09/03/2020" /> 
 </div>
 <br>
 <div align="center"> 
