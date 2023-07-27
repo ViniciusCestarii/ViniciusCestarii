@@ -84,7 +84,7 @@
 <div align="center">
 <p>Random follower of the day: </p>
 
-<a href="https://github.com/sigespweb22" alt="Alan L. Rezende"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
+<a href="https://github.com/Jamile15" alt="Mile Vieira"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
 
 <p>My last follower: </p>
 
