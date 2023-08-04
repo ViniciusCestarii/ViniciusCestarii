@@ -4,7 +4,7 @@
 <hr>
 
 - 😄 18 years old;
-- ⌛  3 Years, 3 Months and 23 Days since I started programming;
+- ⌛  3 Years, 3 Months and 25 Days since I started programming;
 - 📚 IT technician and studying information systems;
 - 🌱 Currently learning Next, TypeScript, Prisma;
 - 🔭 I’m currently working as a dev at BrBits Sistemas;
@@ -84,7 +84,7 @@
 <div align="center">
 <p>Random follower of the day: </p>
 
-<a href="https://github.com/leotachini" alt="leotachini"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
+<a href="https://github.com/erickcestari" alt="Erick 光 "><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
 
 <p>My last follower: </p>
 
