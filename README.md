@@ -4,7 +4,7 @@
 <hr>
 
 - 😄 18 years old;
-- ⌛  3 Years, 4 Months and 7 Days since I started programming;
+- ⌛  3 Years, 4 Months and 8 Days since I started programming;
 - 📚 IT technician and studying information systems;
 - 🌱 Currently learning Next, TypeScript, Prisma;
 - 🔭 I’m currently working as a dev at BrBits Sistemas;
@@ -62,6 +62,9 @@
 ## **🚀 My recent works:**
 *This section is updated via Javascript.*
 <div align="center">
+<a href="https://github.com/ViniciusCestarii/myWebRepository">
+    <img align="center" height=120 width=340 src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCestarii&repo=myWebRepository&theme=chartreuse-dark&border_radius=20"/>
+  </a>
 <a href="https://github.com/ViniciusCestarii/IBGE-data-charts">
     <img align="center" height=120 width=340 src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCestarii&repo=IBGE-data-charts&theme=chartreuse-dark&border_radius=20"/>
   </a>
@@ -70,9 +73,6 @@
   </a>
 <a href="https://github.com/ViniciusCestarii/ViniciusCestarii">
     <img align="center" height=120 width=340 src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCestarii&repo=ViniciusCestarii&theme=chartreuse-dark&border_radius=20"/>
-  </a>
-<a href="https://github.com/ViniciusCestarii/RocketSeatServer">
-    <img align="center" height=120 width=340 src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCestarii&repo=RocketSeatServer&theme=chartreuse-dark&border_radius=20"/>
   </a>
 </div>
 <br>
@@ -84,7 +84,7 @@
 <div align="center">
 <p>Random follower of the day: </p>
 
-<a href="https://github.com/sigespweb22" alt="Alan L. Rezende"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
+<a href="https://github.com/Jamile15" alt="Mile Vieira"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
 
 <p>My last follower: </p>
 
@@ -95,7 +95,7 @@
 
 *This section is updated via Javascript.*
 <div align="center">
-  <img align="center" alt="Random unsplash image" width="1000" height="500" src="https://source.unsplash.com/random/1000x500/?web" />
+  <img align="center" alt="Random unsplash image" width="1000" height="500" src="https://source.unsplash.com/random/1000x500/?code" />
 </div>
 
 
