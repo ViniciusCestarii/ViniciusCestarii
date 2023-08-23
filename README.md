@@ -75,7 +75,7 @@
 <div align="center">
 <p>Random follower of the day: </p>
 
-<a href="https://github.com/sigespweb22" alt="Alan L. Rezende"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
+<a href="https://github.com/NathanKusters" alt="Nathan.K"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
 
 <p>My last follower: </p>
 
@@ -86,7 +86,7 @@
 
 *This section is updated via Javascript.*
 <div align="center">
-  <img align="center" alt="Random unsplash image" width="1000" height="500" src="https://source.unsplash.com/random/1000x500/?java" />
+  <img align="center" alt="Random unsplash image" width="1000" height="500" src="https://source.unsplash.com/random/1000x500/?javascript" />
 </div>
 
 
