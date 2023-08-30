@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3>My name is Vinicius Cestari and i'm a student who wants to learn new things and post them in the Internet.</h3>
+<h3>My name is Vinicius Cestari and i'm a Full Stack Developer who wants to learn new things and post them in the Internet.</h3>
 <hr>
 
 - 😄 18 years old;
@@ -75,7 +75,7 @@
 <div align="center">
 <p>Random follower of the day: </p>
 
-<a href="https://github.com/sigespweb22" alt="Alan L. Rezende"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
+<a href="https://github.com/erickcestari" alt="Erick 光 "><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
 
 <p>My last follower: </p>
 
@@ -86,7 +86,7 @@
 
 *This section is updated via Javascript.*
 <div align="center">
-  <img align="center" alt="Random unsplash image" width="1000" height="500" src="https://source.unsplash.com/random/1000x500/?technology" />
+  <img align="center" alt="Random unsplash image" width="1000" height="500" src="https://source.unsplash.com/random/1000x500/?computer" />
 </div>
 
 

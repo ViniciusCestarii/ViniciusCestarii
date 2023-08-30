@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3>My name is Vinicius Cestari and i'm a student who wants to learn new things and post them in the Internet.</h3>
+<h3>My name is Vinicius Cestari and i'm a Full Stack Developer who wants to learn new things and post them in the Internet.</h3>
 <hr>
 
 - 😄 18 years old;
