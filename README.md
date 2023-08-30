@@ -86,7 +86,7 @@
 
 *This section is updated via Javascript.*
 <div align="center">
-  <img align="center" alt="Random unsplash image" width="1000" height="500" src="https://source.unsplash.com/random/1000x500/?computer" />
+  <img align="center" alt="Random unsplash image" width="1000" height="500" src="https://source.unsplash.com/random/1000x500/?code" />
 </div>
 
 
