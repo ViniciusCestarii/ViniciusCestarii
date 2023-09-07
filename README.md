@@ -4,7 +4,7 @@
 <hr>
 
 - 😄 18 years old;
-- ⌛  3 Years, 4 Months and 28 Days since I started programming;
+- ⌛  3 Years, 4 Months and 29 Days since I started programming;
 - 📚 IT technician and studying information systems;
 - 🌱 Currently learning Next, TypeScript, Prisma;
 - 🔭 I’m currently working as a dev at BrBits Sistemas;
@@ -53,6 +53,9 @@
 ## **🚀 My recent works:**
 *This section is updated via Javascript.*
 <div align="center">
+<a href="https://github.com/ViniciusCestarii/FindAFriendWeb">
+    <img align="center" height=120 width=340 src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCestarii&repo=FindAFriendWeb&theme=chartreuse-dark&border_radius=20"/>
+  </a>
 <a href="https://github.com/ViniciusCestarii/FindAFriendBack">
     <img align="center" height=120 width=340 src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCestarii&repo=FindAFriendBack&theme=chartreuse-dark&border_radius=20"/>
   </a>
@@ -61,9 +64,6 @@
   </a>
 <a href="https://github.com/ViniciusCestarii/IBGE-data-charts">
     <img align="center" height=120 width=340 src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCestarii&repo=IBGE-data-charts&theme=chartreuse-dark&border_radius=20"/>
-  </a>
-<a href="https://github.com/ViniciusCestarii/RocketSeatWeb">
-    <img align="center" height=120 width=340 src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCestarii&repo=RocketSeatWeb&theme=chartreuse-dark&border_radius=20"/>
   </a>
 </div>
 <br>
@@ -75,7 +75,7 @@
 <div align="center">
 <p>Random follower of the day: </p>
 
-<a href="https://github.com/Lipepeirao" alt="null"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
+<a href="https://github.com/Jamile15" alt="Mile Vieira"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
 
 <p>My last follower: </p>
 
