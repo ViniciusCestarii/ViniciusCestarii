@@ -4,7 +4,7 @@
 <hr>
 
 - 😄 18 years old;
-- ⌛  3 Years, 5 Months and 4 Days since I started programming;
+- ⌛  3 Years, 5 Months and 6 Days since I started programming;
 - 📚 IT technician and studying information systems;
 - 🌱 Currently learning Next, TypeScript, Prisma;
 - 🔭 I’m currently working as a dev at BrBits Sistemas;
@@ -53,6 +53,9 @@
 ## **🚀 My recent works:**
 *This section is updated via Javascript.*
 <div align="center">
+<a href="https://github.com/ViniciusCestarii/IBGE-data-charts">
+    <img align="center" height=120 width=340 src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCestarii&repo=IBGE-data-charts&theme=chartreuse-dark&border_radius=20"/>
+  </a>
 <a href="https://github.com/ViniciusCestarii/FindAFriendWeb">
     <img align="center" height=120 width=340 src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCestarii&repo=FindAFriendWeb&theme=chartreuse-dark&border_radius=20"/>
   </a>
@@ -61,9 +64,6 @@
   </a>
 <a href="https://github.com/ViniciusCestarii/GymPassBack">
     <img align="center" height=120 width=340 src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCestarii&repo=GymPassBack&theme=chartreuse-dark&border_radius=20"/>
-  </a>
-<a href="https://github.com/ViniciusCestarii/IBGE-data-charts">
-    <img align="center" height=120 width=340 src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCestarii&repo=IBGE-data-charts&theme=chartreuse-dark&border_radius=20"/>
   </a>
 </div>
 <br>
@@ -86,7 +86,7 @@
 
 *This section is updated via Javascript.*
 <div align="center">
-  <img align="center" alt="Random unsplash image" width="1000" height="500" src="https://source.unsplash.com/random/1000x500/?javascript" />
+  <img align="center" alt="Random unsplash image" width="1000" height="500" src="https://source.unsplash.com/random/1000x500/?java" />
 </div>
 
 
