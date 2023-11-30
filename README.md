@@ -50,43 +50,4 @@
   <a href="https://www.linkedin.com/in/-vinicius-cestari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## **🚀 My recent works:**
-*This section is updated via Javascript.*
-<div align="center">
-<a href="https://github.com/ViniciusCestarii/BrazilMap">
-    <img align="center" height=120 width=340 src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCestarii&repo=BrazilMap&theme=chartreuse-dark&border_radius=20"/>
-  </a>
-<a href="https://github.com/ViniciusCestarii/Portfolio">
-    <img align="center" height=120 width=340 src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCestarii&repo=Portfolio&theme=chartreuse-dark&border_radius=20"/>
-  </a>
-<a href="https://github.com/ViniciusCestarii/IBGE-data-charts">
-    <img align="center" height=120 width=340 src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCestarii&repo=IBGE-data-charts&theme=chartreuse-dark&border_radius=20"/>
-  </a>
-<a href="https://github.com/ViniciusCestarii/FindAFriendWeb">
-    <img align="center" height=120 width=340 src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCestarii&repo=FindAFriendWeb&theme=chartreuse-dark&border_radius=20"/>
-  </a>
-</div>
-<br>
-<br>
-<p>Here you can check my silly game projects: https://viniciuscestari.itch.io/</p>
-
-## **👨‍💻 My Followers:**
-*This section is updated via Javascript.*
-<div align="center">
-<p>Random follower of the day: </p>
-
-<a href="https://github.com/Jamile15" alt="Mile Vieira"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
-
-<p>My last follower: </p>
-
-<a href="https://github.com/NathanKusters" alt="Nathan.K"><img style="height:150px;" src=./src/resources/images/lastFollower.png alt="Last follower"/></a>
-</div>
-
-## **📷 Random image of the day:**
-
-*This section is updated via Javascript.*
-<div align="center">
-  <img align="center" alt="Random unsplash image" width="1000" height="500" src="https://source.unsplash.com/random/1000x500/?technology" />
-</div>
-
 

@@ -50,32 +50,4 @@
   <a href="https://www.linkedin.com/in/-vinicius-cestari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## **🚀 My recent works:**
-*This section is updated via Javascript.*
-<div align="center">
-%{recentworks}
-</div>
-<br>
-<br>
-<p>Here you can check my silly game projects: https://viniciuscestari.itch.io/</p>
-
-## **👨‍💻 My Followers:**
-*This section is updated via Javascript.*
-<div align="center">
-<p>Random follower of the day: </p>
-
-%{randomFollower}
-
-<p>My last follower: </p>
-
-%{lastFollower}
-</div>
-
-## **📷 Random image of the day:**
-
-*This section is updated via Javascript.*
-<div align="center">
-  %{randomImage}
-</div>
-
 
