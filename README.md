@@ -6,7 +6,7 @@
 - 😄 18 years old;
 - ⌛  3 Years, 10 Months and 2 Days since I started programming;
 - 📚 IT technician and studying information systems;
-- 🌱 Currently learning Next, TypeScript, Prisma;
+- 🌱 Currently learning Rust;
 - 🔭 I’m currently working as a dev at BrBits Sistemas;
 - <img height = "20em" src="https://em-content.zobj.net/thumbs/120/google/350/flag-brazil_1f1e7-1f1f7.png"/>   From Brazil.
 
@@ -16,30 +16,37 @@ My WebSite: https://viniciuscestarii-portfolio.vercel.app/
 
 <div style="display: inline_block" align="center">
   <br>
-  <img align="center" alt="Vinicius-Typescript" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img align="center" alt="Vinicius-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vinicius-NextJs" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-  <img align="center" alt="Vinicius-Expo" height="60" width="60" src="https://www.svgrepo.com/show/373591/expo.svg"/>
-  <img align="center" alt="Vinicius-ReactJs" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img align="center" alt="Vinicius-MUI" height="60" width="60"  src="https://v4.material-ui.com/static/logo.png"/>
-  
-  <img align="center" alt="Vinicius-Tailwind" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
-  <img align="center" alt="Vinicius-Fastify" height="60" width="60" src="https://static-00.iconduck.com/assets.00/fastify-icon-512x329-1ypuqoar.png">
-  <img align="center" alt="Vinicius-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vinicius-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <br><br><br>
-  
-  <img align="center" alt="Vinicius-NodeJs" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img align="center" alt="Vinicius-Vercel" height="60" width="60" src="https://www.svgrepo.com/show/361653/vercel-logo.svg"/>
-  <img align="center" alt="Vinicius-Git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Vinicius-GitLab" height="60" width="60" src="https://about.gitlab.com/images/press/press-kit-icon.svg">
-  <img align="center" alt="Vinicius-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Vinicius-Yeoman" height="60" width="60" src="https://avatars.githubusercontent.com/u/1714870?s=280&v=4"/>
-  
-  <img align="center" alt="Vinicius-Prisma" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_prisma_icon_130444.png"/>
-  <img align="center" alt="Vinicius-MySql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img align="center" alt="Vinicius-PostGreSql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> 
-  <img align="center" alt="Vinicius-Figma" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"/>
+  <img align="center" alt="Vinicius Typescript" height="40" width="40" src="https://skillicons.dev/icons?i=typescript"/>
+  <img align="center" alt="Vinicius Javascript" height="40" width="40" src="https://skillicons.dev/icons?i=javascript"/>
+  <img align="center" alt="Vinicius C#" height="40" width="40" src="https://skillicons.dev/icons?i=cs"/>
+  <img align="center" alt="Vinicius Java" height="40" width="40" src="https://skillicons.dev/icons?i=java"/>
+  <img align="center" alt="Vinicius C#" height="40" width="40" src="https://skillicons.dev/icons?i=net"/>
+  <img align="center" alt="Vinicius Nextjs" height="40" width="40" src="https://skillicons.dev/icons?i=nextjs"/>
+  <img align="center" alt="Vinicius React" height="40" width="40" src="https://skillicons.dev/icons?i=react"/>
+  <img align="center" alt="Vinicius MUI" height="40" width="40" src="https://skillicons.dev/icons?i=mui"/>
+  <img align="center" alt="Vinicius Redux" height="40" width="40" src="https://skillicons.dev/icons?i=redux"/>
+  <img align="center" alt="Vinicius Tailwind" height="40" width="40" src="https://skillicons.dev/icons?i=tailwind"/>
+  <img align="center" alt="Vinicius ThreeJs" height="40" width="40" src="https://skillicons.dev/icons?i=threejs"/>
+  <img align="center" alt="Vinicius CSS" height="40" width="40" src="https://skillicons.dev/icons?i=css"/>
+  <img align="center" alt="Vinicius HTML" height="40" width="40" src="https://skillicons.dev/icons?i=html"/>
+  <img align="center" alt="Vinicius Visual Studio Code" height="40" width="40" src="https://skillicons.dev/icons?i=vscode">
+  <br><br>
+
+  <img align="center" alt="Vinicius Nodejs" height="40" width="40" src="https://skillicons.dev/icons?i=nodejs"/>
+  <img align="center" alt="Vinicius Bun" height="40" width="40" src="https://skillicons.dev/icons?i=bun"/>
+  <img align="center" alt="Vinicius Express" height="40" width="40" src="https://skillicons.dev/icons?i=express"/>
+  <img align="center" alt="Vinicius Vitest" height="40" width="40" src="https://skillicons.dev/icons?i=vitest">
+  <img align="center" alt="Vinicius Prisma" height="40" width="40" src="https://skillicons.dev/icons?i=prisma"/>
+  <img align="center" alt="Vinicius MySql" height="40" width="40" src="https://skillicons.dev/icons?i=mysql"/>
+  <img align="center" alt="Vinicius Postgres" height="40" width="40" src="https://skillicons.dev/icons?i=postgres"/>
+  <img align="center" alt="Vinicius Docker" height="40" width="40" src="https://skillicons.dev/icons?i=docker"/>
+  <img align="center" alt="Vinicius Firebase" height="40" width="40" src="https://skillicons.dev/icons?i=firebase"/>
+  <img align="center" alt="Vinicius AWS" height="40" width="40" src="https://skillicons.dev/icons?i=aws"/>
+  <img align="center" alt="Vinicius Vercel" height="40" width="40" src="https://skillicons.dev/icons?i=vercel"/>
+  <img align="center" alt="Vinicius Git" height="40" width="40" src="https://skillicons.dev/icons?i=git">
+  <img align="center" alt="Vinicius Github" height="40" width="40" src="https://skillicons.dev/icons?i=github">
+  <img align="center" alt="Vinicius Github" height="40" width="40" src="https://skillicons.dev/icons?i=gitlab">
+
   <br>
 </div>
 
