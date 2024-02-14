@@ -34,15 +34,15 @@ My WebSite: https://viniciuscestarii-portfolio.vercel.app/
   <br><br>
 
   <img align="center" alt="Vinicius Nodejs" height="40" width="40" src="https://cdn.simpleicons.org/node.js/"/>
-  <img align="center" alt="Vinicius Bun" height="40" width="40" src="https://cdn.simpleicons.org/bun/_/eee"/>
+  <img align="center" alt="Vinicius Bun" height="40" width="40" src="https://cdn.simpleicons.org/bun/_/ffeed2"/>
   <img align="center" alt="Vinicius Express" height="40" width="40" src="https://cdn.simpleicons.org/express/_/eee"/>
   <img align="center" alt="Vinicius Vitest" height="40" width="40" src="https://cdn.simpleicons.org/vitest/"/>
-  <img align="center" alt="Vinicius Prisma" height="40" width="40" src="https://cdn.simpleicons.org/prisma/_/eee"/>
+  <img align="center" alt="Vinicius Prisma" height="40" width="40" src="https://cdn.simpleicons.org/prisma/_/5a67d8"/>
   <img align="center" alt="Vinicius MySql" height="40" width="40" src="https://cdn.simpleicons.org/mysql/"/>
   <img align="center" alt="Vinicius PostgreSQL" height="40" width="40" src="https://cdn.simpleicons.org/postgresql/"/>
   <img align="center" alt="Vinicius Docker" height="40" width="40" src="https://cdn.simpleicons.org/docker/"/>
   <img align="center" alt="Vinicius Firebase" height="40" width="40" src="https://cdn.simpleicons.org/firebase/"/>
-  <img align="center" alt="Vinicius AWS" height="40" width="40" src="https://cdn.simpleicons.org/amazonaws/_/eee"/>
+  <img align="center" alt="Vinicius AWS" height="40" width="40" src="https://cdn.simpleicons.org/amazonaws/_/ff9900"/>
   <img align="center" alt="Vinicius Vercel" height="40" width="40" src="https://cdn.simpleicons.org/vercel/_/eee"/>
   <img align="center" alt="Vinicius Git" height="40" width="40" src="https://cdn.simpleicons.org/git/"/>
   <img align="center" alt="Vinicius Github" height="40" width="40" src="https://cdn.simpleicons.org/github/_/eee"/>
