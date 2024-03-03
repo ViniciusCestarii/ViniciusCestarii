@@ -3,7 +3,7 @@
 <h3>My name is Vinicius Cestari and i'm a Full Stack Developer.</h3>
 <hr>
 
-- 😄 18 years old;
+- 😄 19 years old;
 - ⌛  3 Years, 10 Months and 24 Days since I started programming;
 - 📚 IT technician and studying information systems;
 - 🌱 Currently learning Rust;
