@@ -4,7 +4,7 @@
 <hr>
 
 - 😄 19 years old;
-- ⌛  3 Years, 11 Months and 5 Days since I started programming;
+- ⌛  3 Years, 11 Months and 6 Days since I started programming;
 - 📚 IT technician and studying information systems;
 - 🌱 Currently learning Rust;
 - 🔭 I’m currently working as a dev at BrBits Sistemas;
