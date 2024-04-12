@@ -20,6 +20,7 @@ My WebSite: https://viniciuscestarii-portfolio.vercel.app/
   <img align="center" alt="Vinicius Javascript" height="40" width="40" src="https://cdn.simpleicons.org/javascript/"/>
   <img align="center" alt="Vinicius C#" height="40" width="40" src="https://cdn.simpleicons.org/csharp/"/>
   <img align="center" alt="Vinicius .NET" height="40" width="40" src="https://cdn.simpleicons.org/dotnet/"/>
+  <img align="center" alt="Vinicius Typescript" height="40" width="40" src="https://cdn.simpleicons.org/go/"/>
   <img align="center" alt="Vinicius Nextjs" height="40" width="40" src="https://cdn.simpleicons.org/next.js/_/eee"/>
   <img align="center" alt="Vinicius React" height="40" width="40" src="https://cdn.simpleicons.org/react/"/>
   <img align="center" alt="Vinicius React Query" height="40" width="40" src="https://cdn.simpleicons.org/reactquery/"/>
