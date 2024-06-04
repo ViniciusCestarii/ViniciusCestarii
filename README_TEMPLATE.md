@@ -34,7 +34,7 @@ My WebSite: https://viniciuscestarii-portfolio.vercel.app/
   <br><br>
 
   <img align="center" alt="Vinicius Nodejs" height="40" width="40" src="https://cdn.simpleicons.org/node.js/"/>
-  <img align="center" alt="Vinicius Bun" height="40" width="40" src="https://cdn.simpleicons.org/bun/_/ffeed2"/>
+  <img align="center" alt="Vinicius Bun" height="40" width="40" src="https://cdn.simpleicons.org/bun/e6994c/ffeed2"/>
   <img align="center" alt="Vinicius Express" height="40" width="40" src="https://cdn.simpleicons.org/express/_/eee"/>
   <img align="center" alt="Vinicius Vitest" height="40" width="40" src="https://cdn.simpleicons.org/vitest/"/>
   <img align="center" alt="Vinicius Prisma" height="40" width="40" src="https://cdn.simpleicons.org/prisma/_/5a67d8"/>
