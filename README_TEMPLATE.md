@@ -3,7 +3,7 @@
 <h3>My name is Vinicius Cestari and i'm a Full Stack Developer.</h3>
 <hr>
 
-- 😄 19 years old;
+- 😄 %{yearsOld} years old;
 - ⌛  %{myexperience};
 - 📚 IT technician and studying information systems;
 - 🔭 I’m currently working as a dev at BrBits Sistemas;
