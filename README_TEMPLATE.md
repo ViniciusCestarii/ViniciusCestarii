@@ -6,7 +6,6 @@
 - 😄 19 years old;
 - ⌛  %{myexperience};
 - 📚 IT technician and studying information systems;
-- 🌱 Currently learning Rust;
 - 🔭 I’m currently working as a dev at BrBits Sistemas;
 - <img height = "20em" src="https://em-content.zobj.net/thumbs/120/google/350/flag-brazil_1f1e7-1f1f7.png"/>   From Brazil.
 
@@ -43,7 +42,7 @@ My WebSite: https://viniciuscestarii-portfolio.vercel.app/
   <img align="center" alt="Vinicius PostgreSQL" height="40" width="40" src="https://cdn.simpleicons.org/postgresql/"/>
   <img align="center" alt="Vinicius Docker" height="40" width="40" src="https://cdn.simpleicons.org/docker/"/>
   <img align="center" alt="Vinicius Firebase" height="40" width="40" src="https://cdn.simpleicons.org/firebase/"/>
-  <img align="center" alt="Vinicius AWS" height="40" width="40" src="https://cdn.simpleicons.org/amazonaws/_/ff9900"/>
+  <img align="center" alt="Vinicius AWS" height="40" width="40" src="https://cdn.simpleicons.org/amazonwebservices/_/ff9900"/>
   <img align="center" alt="Vinicius Vercel" height="40" width="40" src="https://cdn.simpleicons.org/vercel/_/eee"/>
   <img align="center" alt="Vinicius Git" height="40" width="40" src="https://cdn.simpleicons.org/git/"/>
   <img align="center" alt="Vinicius Github" height="40" width="40" src="https://cdn.simpleicons.org/github/_/eee"/>
