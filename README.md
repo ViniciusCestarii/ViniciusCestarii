@@ -4,7 +4,7 @@
 <hr>
 
 - 😄 19 years old;
-- ⌛  4 Years, 1 Month and 29 Days since I started programming;
+- ⌛  4 Years, 2 Months and 0 Days since I started programming;
 - 📚 IT technician and studying information systems;
 - 🔭 I’m currently working as a dev at BrBits Sistemas;
 - <img height = "20em" src="https://em-content.zobj.net/thumbs/120/google/350/flag-brazil_1f1e7-1f1f7.png"/>   From Brazil.
