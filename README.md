@@ -59,7 +59,7 @@ My WebSite: https://viniciuscestarii-portfolio.vercel.app/
 </div>
 
 <div align="end">
-<a href="https://viniciuscestarii.grafana.net/public-dashboards/d7239e7f75f14212a436166f2dd8ee45">
+<a target="_blank" href="https://viniciuscestarii.grafana.net/public-dashboards/d7239e7f75f14212a436166f2dd8ee45">
   Github Dash
   <img align="center" alt="Vinicius Grafana" height="20" width="20" src="https://cdn.simpleicons.org/grafana/"/>
   </a>
