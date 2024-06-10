@@ -45,7 +45,8 @@ My WebSite: https://viniciuscestarii-portfolio.vercel.app/
   <img align="center" alt="Vinicius Vercel" height="40" width="40" src="https://skillicons.dev/icons?i=vercel"/>
   <img align="center" alt="Vinicius Git" height="40" width="40" src="https://skillicons.dev/icons?i=git">
   <img align="center" alt="Vinicius Github" height="40" width="40" src="https://skillicons.dev/icons?i=github">
-  <img align="center" alt="Vinicius Github" height="40" width="40" src="https://skillicons.dev/icons?i=gitlab">
+  <img align="center" alt="Vinicius Gitlab" height="40" width="40" src="https://skillicons.dev/icons?i=gitlab">  
+  <img align="center" alt="Vinicius Grafana" height="40" width="40" src="https://skillicons.dev/icons?i=grafana">
 
   <br>
 </div>
@@ -53,8 +54,14 @@ My WebSite: https://viniciuscestarii-portfolio.vercel.app/
 <br>
 
 <div align="center"> 
-  <a href = "mailto:viniciuscestari01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:viniciuscestari01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/-vinicius-cestari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<div align="end">
+<a href="https://viniciuscestarii.grafana.net/public-dashboards/d7239e7f75f14212a436166f2dd8ee45">
+  Github Dash
+  <img align="center" alt="Vinicius Grafana" height="40" width="40" src="https://skillicons.dev/icons?i=grafana">
+  </a>
+</div>
 
