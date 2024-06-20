@@ -3,11 +3,13 @@
 <h3>My name is Vinicius Cestari and i'm a Full Stack Developer.</h3>
 <hr>
 
-- 😄 %{yearsOld} years old%{isBirthday};
+- 😄 I'm %{yearsOld} years old%{isBirthday};
 - ⌛  %{myexperience};
 - 📚 IT technician and studying information systems;
 - 🔭 I’m currently working as a dev at BrBits Sistemas;
-- <img height = "20em" src="https://em-content.zobj.net/thumbs/120/google/350/flag-brazil_1f1e7-1f1f7.png"/>   From Brazil.
+- 👨‍💻 I know Typescript, Javascript, Go, Java, C#;
+- 🐣 I'm currently learning Rust, Elixir;
+- <img height = "20em" src="https://em-content.zobj.net/thumbs/120/google/350/flag-brazil_1f1e7-1f1f7.png"/>  I'm From Brazil.
 
 My WebSite: https://viniciuscestarii-portfolio.vercel.app/
 
