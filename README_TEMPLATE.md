@@ -19,7 +19,7 @@ My WebSite: https://viniciuscestarii-portfolio.vercel.app/
   <br>
   <img align="center" alt="Vinicius Typescript" height="40" width="40" src="https://cdn.simpleicons.org/typescript/"/>
   <img align="center" alt="Vinicius Javascript" height="40" width="40" src="https://cdn.simpleicons.org/javascript/"/>
-  <img align="center" alt="Vinicius C#" height="40" width="40" src="https://cdn.simpleicons.org/csharp/"/>
+  <img align="center" alt="Vinicius C#" height="40" width="40" src="https://skillicons.dev/icons?i=cs"/>
   <img align="center" alt="Vinicius .NET" height="40" width="40" src="https://cdn.simpleicons.org/dotnet/"/>
   <img align="center" alt="Vinicius Typescript" height="40" width="40" src="https://cdn.simpleicons.org/go/"/>
   <img align="center" alt="Vinicius Nextjs" height="40" width="40" src="https://cdn.simpleicons.org/next.js/_/eee"/>
