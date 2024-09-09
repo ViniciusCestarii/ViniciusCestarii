@@ -4,7 +4,7 @@
 <hr>
 
 - 😄 I'm 19 years old;
-- ⌛  4 Years, 5 Months and 1 Day since I started programming;
+- ⌛  4 Years, 5 Months and 2 Days since I started programming;
 - 📚 IT technician and studying information systems;
 - 🔭 I’m currently working as a dev at BrBits Sistemas;
 - 👨‍💻 I know Typescript, Javascript, Go, Java, C#;
@@ -46,7 +46,7 @@ My WebSite: https://viniciuscestarii-portfolio.vercel.app/
   <img align="center" alt="Vinicius Firebase" height="40" width="40" src="https://cdn.simpleicons.org/firebase/"/>
   <img align="center" alt="Vinicius AWS" height="40" width="40" src="https://cdn.simpleicons.org/amazonwebservices/_/ff9900"/>
   <img align="center" alt="Vinicius Vercel" height="40" width="40" src="https://cdn.simpleicons.org/vercel/_/eee"/>
-  <img align="center" alt="Vinicius Git" height="40" width="40" src="https://cdn.simpleicons.org/git/"/>
+  <img align="center" alt="Vinicius Git" height="40" width="40" src="https://cdn.simpleicons.org/git"/>
   <img align="center" alt="Vinicius Github" height="40" width="40" src="https://cdn.simpleicons.org/github/_/eee"/>
   <img align="center" alt="Vinicius Github" height="40" width="40" src="https://cdn.simpleicons.org/gitlab/"/>
   <img align="center" alt="Vinicius Grafana" height="40" width="40" src="https://cdn.simpleicons.org/grafana/"/>
