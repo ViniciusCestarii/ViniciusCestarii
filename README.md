@@ -4,7 +4,7 @@
 <hr>
 
 - 😄 I'm 19 years old;
-- ⌛  4 Years, 5 Months and 4 Days since I started programming;
+- ⌛  4 Years, 5 Months and 5 Days since I started programming;
 - 📚 IT technician and studying information systems;
 - 🔭 I’m currently working as a dev at BrBits Sistemas;
 - 👨‍💻 I know Typescript, Javascript, Go, Java, C#;
