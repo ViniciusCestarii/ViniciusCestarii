@@ -4,14 +4,16 @@
 <hr>
 
 - 😄 I'm 19 years old;
-- ⌛  4 Years, 5 Months and 22 Days since I started programming;
+- ⌛  4 Years, 5 Months and 23 Days since I started programming;
 - 📚 IT technician and studying information systems;
 - 🔭 I’m currently working as a dev at BrBits Sistemas;
 - 👨‍💻 I know Typescript, Javascript, Go, Java, C#;
 - 🐣 I'm currently learning Rust, Elixir;
 - <img height = "20em" src="https://em-content.zobj.net/thumbs/120/google/350/flag-brazil_1f1e7-1f1f7.png"/>  I'm From Brazil.
 
-My WebSite: https://viniciuscestarii-portfolio.vercel.app/
+Portfolio: https://viniciuscestarii-portfolio.vercel.app
+
+Blog: https://vinicius-blog.vercel.app
 
 ## **💻 What I know:** 
 
