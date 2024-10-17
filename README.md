@@ -4,7 +4,7 @@
 <hr>
 
 - 😄 I'm 19 years old;
-- ⌛  4 Years, 6 Months and 9 Days since I started programming;
+- ⌛  4 Years, 6 Months and 10 Days since I started programming;
 - 📚 IT technician and studying information systems;
 - 🔭 I’m currently working as a dev at BrBits Sistemas;
 - 👨‍💻 I know Typescript, Javascript, Go, Java, C#;
@@ -33,7 +33,7 @@ Blog: https://vinicius-blog.vercel.app
   <img align="center" alt="Vinicius ThreeJs" height="40" width="40" src="https://cdn.simpleicons.org/three.js/_/eee"/>
   <img align="center" alt="Vinicius CSS" height="40" width="40" src="https://cdn.simpleicons.org/css3"/>
   <img align="center" alt="Vinicius HTML" height="40" width="40" src="https://cdn.simpleicons.org/html5"/>
-  <img align="center" alt="Vinicius Visual Studio Code" height="40" width="40" src="https://code.visualstudio.com/assets/images/code-stable.png"/>
+  <img align="center" alt="Vinicius Visual Studio Code" height="40" width="40" src="https://github.com/user-attachments/assets/acf36bad-c5ff-4132-81a9-f146a9589093"/>
 
   <br><br>
 
