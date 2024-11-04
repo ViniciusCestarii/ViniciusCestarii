@@ -40,6 +40,7 @@ Blog: https://vinicius-blog.vercel.app
 
   <img align="center" alt="Vinicius Nodejs" height="40" width="40" src="https://skillicons.dev/icons?i=nodejs"/>
   <img align="center" alt="Vinicius Bun" height="40" width="40" src="https://skillicons.dev/icons?i=bun"/>
+  <img align="center" alt="Vinicius RabbitMQ" height="40" width="40" src="https://skillicons.dev/icons?i=rabbitmq"/>
   <img align="center" alt="Vinicius Express" height="40" width="40" src="https://skillicons.dev/icons?i=express"/>
   <img align="center" alt="Vinicius Vitest" height="40" width="40" src="https://skillicons.dev/icons?i=vitest"/>
   <img align="center" alt="Vinicius Drizzle" height="40" width="40" src="https://cdn.simpleicons.org/drizzle"/>
