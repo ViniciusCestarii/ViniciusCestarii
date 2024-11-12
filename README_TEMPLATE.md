@@ -25,6 +25,7 @@ Blog: https://vinicius-blog.vercel.app
   <img align="center" alt="Vinicius .NET" height="40" width="40" src="https://skillicons.dev/icons?i=net"/>
   <img align="center" alt="Vinicius Go" height="40" width="40" src="https://skillicons.dev/icons?i=go"/>
   <img align="center" alt="Vinicius Svelte" height="40" width="40" src="https://skillicons.dev/icons?i=svelte"/>
+    <img align="center" alt="Vinicius React" height="40" width="40" src="https://skillicons.dev/icons?i=tauri"/>
   <img align="center" alt="Vinicius Nextjs" height="40" width="40" src="https://skillicons.dev/icons?i=nextjs"/>
   <img align="center" alt="Vinicius React" height="40" width="40" src="https://skillicons.dev/icons?i=react"/>
   <img align="center" alt="Vinicius React Query" height="40" width="40" src="https://cdn.simpleicons.org/reactquery"/>
