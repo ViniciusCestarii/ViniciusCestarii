@@ -25,7 +25,7 @@ Blog: https://vinicius-blog.vercel.app
   <img align="center" alt="Vinicius .NET" height="40" width="40" src="https://skillicons.dev/icons?i=net"/>
   <img align="center" alt="Vinicius Go" height="40" width="40" src="https://skillicons.dev/icons?i=go"/>
   <img align="center" alt="Vinicius Svelte" height="40" width="40" src="https://skillicons.dev/icons?i=svelte"/>
-    <img align="center" alt="Vinicius React" height="40" width="40" src="https://skillicons.dev/icons?i=tauri"/>
+  <img align="center" alt="Vinicius React" height="40" width="40" src="https://skillicons.dev/icons?i=tauri"/>
   <img align="center" alt="Vinicius Nextjs" height="40" width="40" src="https://skillicons.dev/icons?i=nextjs"/>
   <img align="center" alt="Vinicius React" height="40" width="40" src="https://skillicons.dev/icons?i=react"/>
   <img align="center" alt="Vinicius React Query" height="40" width="40" src="https://cdn.simpleicons.org/reactquery"/>
@@ -52,9 +52,9 @@ Blog: https://vinicius-blog.vercel.app
   <img align="center" alt="Vinicius Firebase" height="40" width="40" src="https://skillicons.dev/icons?i=firebase"/>
   <img align="center" alt="Vinicius AWS" height="40" width="40" src="https://skillicons.dev/icons?i=aws"/>
   <img align="center" alt="Vinicius Vercel" height="40" width="40" src="https://skillicons.dev/icons?i=vercel"/>
-  <img align="center" alt="Vinicius Git" height="40" width="40" src="https://cdn.simpleicons.org/git"/>
-  <img align="center" alt="Vinicius Github" height="40" width="40" src="https://skillicons.dev/icons?i=git"/>
-  <img align="center" alt="Vinicius Github" height="40" width="40" src="https://skillicons.dev/icons?i=gitlab"/>
+  <img align="center" alt="Vinicius Git" height="40" width="40" src="https://skillicons.dev/icons?i=git"/>
+  <img align="center" alt="Vinicius Github" height="40" width="40" src="https://skillicons.dev/icons?i=github"/>
+  <img align="center" alt="Vinicius Gitlab" height="40" width="40" src="https://skillicons.dev/icons?i=gitlab"/>
   <img align="center" alt="Vinicius Grafana" height="40" width="40" src="https://skillicons.dev/icons?i=grafana"/>
   <br>
 </div>
