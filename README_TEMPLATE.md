@@ -11,9 +11,9 @@
 - 🐣 I'm currently learning Rust, Elixir;
 - <img height = "20em" src="https://em-content.zobj.net/thumbs/120/google/350/flag-brazil_1f1e7-1f1f7.png"/>  I'm From Brazil.
 
-Portfolio: https://viniciuscestarii-portfolio.vercel.app
+Portfolio: https://viniciuscestari.dev
 
-Blog: https://vinicius-blog.vercel.app
+Blog: https://blog.viniciuscestari.dev
 
 ## **💻 What I know:** 
 
