@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h3>My name is Vinicius Cestari and i'm a Full Stack Developer.</h3>
+### Vinicius Cestari, Full Stack Engineer
 <hr>
 
 - 😄 I'm 19 years old;
