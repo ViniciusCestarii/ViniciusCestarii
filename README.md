@@ -1,3 +1,5 @@
+<samp>
+
 ### Vinicius Cestari, Full Stack Engineer
 
 - 😄 I'm 19 years old;
@@ -67,3 +69,5 @@
   <img align="center" alt="Vinicius Grafana" height="20" width="20" src="https://cdn.simpleicons.org/grafana"/>
   </a>
 </div>
+
+</samp>
