@@ -3,7 +3,7 @@
 ### Vinicius Cestari, Full Stack Engineer
 
 - 😄 I'm 19 years old;
-- ⌛  4 Years, 9 Months and 30 Days since I started programming;
+- ⌛  4 Years, 10 Months and 0 Days since I started programming;
 - 📚 IT technician and studying information systems;
 - 🔭 I’m currently working as a dev at BrBits Sistemas;
 - 👨‍💻 I know Typescript, Javascript, Go, Java, C#;
