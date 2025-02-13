@@ -22,10 +22,14 @@ IT technician, Bachelor's student in Information Systems, and Full Stack Enginee
   <img align="center" alt="Vinicius React Query" height="40" width="40" src="https://cdn.simpleicons.org/reactquery"/>
   <img align="center" alt="Vinicius Redux" height="40" width="40" src="https://skillicons.dev/icons?i=redux"/>
   <img align="center" alt="Vinicius MUI" height="40" width="40" src="https://skillicons.dev/icons?i=mui"/>
+  <img align="center" alt="Vinicius Shadcn/ui" height="40" width="40" src="https://skills-icons.vercel.app/api/icons?i=shadcnui"/>
+  <img align="center" alt="Vinicius Daisyui" height="40" width="40" src="https://skills-icons.vercel.app/api/icons?i=daisyui"/>
   <img align="center" alt="Vinicius Tailwind" height="40" width="40" src="https://skillicons.dev/icons?i=tailwindcss"/>
   <img align="center" alt="Vinicius ThreeJs" height="40" width="40" src="https://skillicons.dev/icons?i=threejs"/>
   <img align="center" alt="Vinicius CSS" height="40" width="40" src="https://skillicons.dev/icons?i=css"/>
   <img align="center" alt="Vinicius HTML" height="40" width="40" src="https://skillicons.dev/icons?i=html"/>
+  <img align="center" alt="Vinicius Javascript" height="40" width="40" src="https://skillicons.dev/icons?i=vite"/>
+  <img align="center" alt="Vinicius Javascript" height="40" width="40" src="https://skillicons.dev/icons?i=webpack"/>
   <img align="center" alt="Vinicius Visual Studio Code" height="40" width="40" src="https://skillicons.dev/icons?i=vscode"/>
 
   <br><br>
@@ -35,10 +39,12 @@ IT technician, Bachelor's student in Information Systems, and Full Stack Enginee
   <img align="center" alt="Vinicius RabbitMQ" height="40" width="40" src="https://skillicons.dev/icons?i=rabbitmq"/>
   <img align="center" alt="Vinicius Express" height="40" width="40" src="https://skillicons.dev/icons?i=express"/>
   <img align="center" alt="Vinicius Vitest" height="40" width="40" src="https://skillicons.dev/icons?i=vitest"/>
-  <img align="center" alt="Vinicius Drizzle" height="40" width="40" src="https://cdn.simpleicons.org/drizzle"/>
+  <img align="center" alt="Vinicius Drizzle" height="40" width="40" src="https://skills-icons.vercel.app/api/icons?i=drizzle"/>
   <img align="center" alt="Vinicius Prisma" height="40" width="40" src="https://skillicons.dev/icons?i=prisma"/>
   <img align="center" alt="Vinicius MySql" height="40" width="40" src="https://skillicons.dev/icons?i=mysql"/>
   <img align="center" alt="Vinicius PostgreSQL" height="40" width="40" src="https://skillicons.dev/icons?i=postgresql"/>
+  <img align="center" alt="Vinicius MongoDB" height="40" width="40" src="https://skillicons.dev/icons?i=mongodb"/>
+  <img align="center" alt="Vinicius Nginx" height="40" width="40" src="https://skillicons.dev/icons?i=nginx"/>
   <img align="center" alt="Vinicius Docker" height="40" width="40" src="https://skillicons.dev/icons?i=docker"/>
   <img align="center" alt="Vinicius Firebase" height="40" width="40" src="https://skillicons.dev/icons?i=firebase"/>
   <img align="center" alt="Vinicius AWS" height="40" width="40" src="https://skillicons.dev/icons?i=aws"/>
@@ -47,6 +53,8 @@ IT technician, Bachelor's student in Information Systems, and Full Stack Enginee
   <img align="center" alt="Vinicius Github" height="40" width="40" src="https://skillicons.dev/icons?i=github"/>
   <img align="center" alt="Vinicius Gitlab" height="40" width="40" src="https://skillicons.dev/icons?i=gitlab"/>
   <img align="center" alt="Vinicius Grafana" height="40" width="40" src="https://skillicons.dev/icons?i=grafana"/>
+  <img align="center" alt="Vinicius Windows" height="40" width="40" src="https://skills-icons.vercel.app/api/icons?i=windows"/>
+  <img align="center" alt="Vinicius Linux" height="40" width="40" src="https://skills-icons.vercel.app/api/icons?i=linux"/>
   <br>
 </div>
 
