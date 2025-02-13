@@ -28,8 +28,8 @@ IT technician, Bachelor's student in Information Systems, and Full Stack Enginee
   <img align="center" alt="Vinicius ThreeJs" height="40" width="40" src="https://skillicons.dev/icons?i=threejs"/>
   <img align="center" alt="Vinicius CSS" height="40" width="40" src="https://skillicons.dev/icons?i=css"/>
   <img align="center" alt="Vinicius HTML" height="40" width="40" src="https://skillicons.dev/icons?i=html"/>
-  <img align="center" alt="Vinicius Javascript" height="40" width="40" src="https://skillicons.dev/icons?i=vite"/>
-  <img align="center" alt="Vinicius Javascript" height="40" width="40" src="https://skillicons.dev/icons?i=webpack"/>
+  <img align="center" alt="Vinicius Vite" height="40" width="40" src="https://skillicons.dev/icons?i=vite"/>
+  <img align="center" alt="Vinicius Webpack" height="40" width="40" src="https://skillicons.dev/icons?i=webpack"/>
   <img align="center" alt="Vinicius Visual Studio Code" height="40" width="40" src="https://skillicons.dev/icons?i=vscode"/>
 
   <br><br>
