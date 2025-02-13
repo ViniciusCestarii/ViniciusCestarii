@@ -29,7 +29,7 @@ IT technician, Bachelor's student in Information Systems, and Full Stack Enginee
   <img align="center" alt="Vinicius Vite" height="40" width="40" src="https://skillicons.dev/icons?i=vite"/>
   <img align="center" alt="Vinicius Webpack" height="40" width="40" src="https://skillicons.dev/icons?i=webpack"/>
 
-  <br>
+  <br><br>
   
   <img align="center" alt="Vinicius .NET" height="40" width="40" src="https://skillicons.dev/icons?i=net"/>
   <img align="center" alt="Vinicius Nodejs" height="40" width="40" src="https://skillicons.dev/icons?i=nodejs"/>
@@ -45,7 +45,7 @@ IT technician, Bachelor's student in Information Systems, and Full Stack Enginee
   <img align="center" alt="Vinicius Visual Studio Code" height="40" width="40" src="https://skillicons.dev/icons?i=vim"/>
   <img align="center" alt="Vinicius RabbitMQ" height="40" width="40" src="https://skillicons.dev/icons?i=rabbitmq"/>
 
-  <br>
+  <br><br>
   
   <img align="center" alt="Vinicius Nginx" height="40" width="40" src="https://skillicons.dev/icons?i=nginx"/>
   <img align="center" alt="Vinicius Docker" height="40" width="40" src="https://skillicons.dev/icons?i=docker"/>
