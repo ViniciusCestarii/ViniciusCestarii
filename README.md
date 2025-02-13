@@ -52,10 +52,8 @@ IT technician, Bachelor's student in Information Systems, and Full Stack Enginee
 
 <br>
 
-<div align="center"> 
-  <a href="mailto:viniciuscestari01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/-vinicius-cestari"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-</div>
+<a href="mailto:viniciuscestari01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/-vinicius-cestari"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
 <div align="end">
 <a href="https://viniciuscestarii.grafana.net/public-dashboards/d7239e7f75f14212a436166f2dd8ee45">
