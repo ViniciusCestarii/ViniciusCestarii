@@ -2,13 +2,7 @@
 
 ### Vinicius Cestari, Full Stack Engineer
 
-- 😄 I'm 19 years old;
-- ⌛  4 Years, 10 Months and 6 Days since I started programming;
-- 📚 IT technician and studying information systems;
-- 🔭 I’m currently working as a dev at BrBits Sistemas;
-- 👨‍💻 I know Typescript, Javascript, Go, Java, C#;
-- 🐣 I'm currently learning Rust, Elixir;
-- <img height = "20em" src="https://em-content.zobj.net/thumbs/120/google/350/flag-brazil_1f1e7-1f1f7.png"/>  I'm From Brazil.
+IT technician, Bachelor's student in Information Systems, and Full Stack Engineer with DevOps expertise.
 
 [Portfolio](https://viniciuscestari.dev) | [Blog](https://blog.viniciuscestari.dev)
 
