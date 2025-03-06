@@ -14,6 +14,7 @@ IT technician, Bachelor's student in Information Systems, and Full Stack Enginee
   <img align="center" alt="Vinicius Javascript" height="40" width="40" src="https://skillicons.dev/icons?i=js"/>
   <img align="center" alt="Vinicius C#" height="40" width="40" src="https://skillicons.dev/icons?i=cs"/>
   <img align="center" alt="Vinicius Go" height="40" width="40" src="https://skillicons.dev/icons?i=go"/>
+  <img align="center" alt="Vinicius Python" height="40" width="40" src="https://skillicons.dev/icons?i=python"/>
   <img align="center" alt="Vinicius Svelte" height="40" width="40" src="https://skillicons.dev/icons?i=svelte"/>
   <img align="center" alt="Vinicius React" height="40" width="40" src="https://skillicons.dev/icons?i=tauri"/>
   <img align="center" alt="Vinicius Nextjs" height="40" width="40" src="https://skillicons.dev/icons?i=nextjs"/>
@@ -27,7 +28,6 @@ IT technician, Bachelor's student in Information Systems, and Full Stack Enginee
   <img align="center" alt="Vinicius CSS" height="40" width="40" src="https://skillicons.dev/icons?i=css"/>
   <img align="center" alt="Vinicius HTML" height="40" width="40" src="https://skillicons.dev/icons?i=html"/>
   <img align="center" alt="Vinicius Vite" height="40" width="40" src="https://skillicons.dev/icons?i=vite"/>
-  <img align="center" alt="Vinicius Webpack" height="40" width="40" src="https://skillicons.dev/icons?i=webpack"/>
 
   <br><br>
   
