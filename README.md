@@ -1,10 +1,8 @@
 <samp>
 
-### Vinicius Cestari, Full Stack Engineer
+### Vinicius Cestari
 
-IT technician, Bachelor's student in Information Systems, and Full Stack Engineer with DevOps expertise.
-
-[Portfolio](https://viniciuscestari.dev) | [Blog](https://blog.viniciuscestari.dev)
+Full Stack Engineer, learning to be bitcoin open source developer.
 
 ## **💻 What I know:** 
 
