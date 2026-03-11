@@ -2,7 +2,7 @@
 
 ### Vinicius Cestari
 
-Full Stack Engineer, learning to be bitcoin open source developer.
+Full Stack Engineer | Contributing to Bitcoin open-source projects
 
 ## **💻 What I know:** 
 
