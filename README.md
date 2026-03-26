@@ -1,7 +1,7 @@
 <samp>
 
-### Vinicius Cestari
+## Vinicius Cestari
 
-Full Stack Engineer | Contributing to Bitcoin open-source projects
+### Full Stack Engineer | Contributing to Bitcoin open-source projects
 
 </samp>
